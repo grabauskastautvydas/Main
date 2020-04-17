@@ -2,10 +2,7 @@ package com.os.ndrmvm;
 
 import java.io.IOException;
 
-/**
- *
- * @author Justin
- */
+
 public class HDD {
     //byte[][][] memory = new byte[16][16][4];
     
