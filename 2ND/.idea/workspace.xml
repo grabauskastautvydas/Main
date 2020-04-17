@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81e2c3f1-4ce8-4c82-9a8d-f60cb1a692b6" name="Default Changelist" comment="" />
+    <list default="true" id="81e2c3f1-4ce8-4c82-9a8d-f60cb1a692b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +18,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Zzke3W6VF2FoZDxAjmyOqLwtEj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../2NDRMVM(V08)" />
     <property name="project.structure.last.edited" value="Modules" />
