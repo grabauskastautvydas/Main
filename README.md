@@ -1,5 +1,5 @@
-# OS
-Darbą atliko:
-Justinas Čiutas,      Informatika, 3 kursas, 3 grupė
-Tautvydas Grabauskas, Informatika, 3 kursas, 3 grupė
+# OS<br>
+Darbą atliko:<br>
+Justinas Čiutas,      Informatika, 3 kursas, 3 grupė<br>
+Tautvydas Grabauskas, Informatika, 3 kursas, 3 grupė<br>
    
